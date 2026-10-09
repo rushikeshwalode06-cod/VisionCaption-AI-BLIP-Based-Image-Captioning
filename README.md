@@ -39,7 +39,7 @@ The project uses BLIP (Bootstrapping Language-Image Pre-training), a vision-lang
 * ⚙️ **Optimizer:** AdamW
 * 📉 **Learning Rate:** `5e-5`
 * 🔥 **Framework:** PyTorch
-
+![ml](https://github.com/rushikeshwalode06-cod/VisionCaption-AI-BLIP-Based-Image-Captioning/blob/main/caption_model_image.png?raw=true)
 
 ## 📊 Dataset
 
