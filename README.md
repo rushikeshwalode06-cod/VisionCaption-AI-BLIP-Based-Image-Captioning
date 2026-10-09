@@ -39,6 +39,7 @@ The project uses BLIP (Bootstrapping Language-Image Pre-training), a vision-lang
 * ⚙️ **Optimizer:** AdamW
 * 📉 **Learning Rate:** `5e-5`
 * 🔥 **Framework:** PyTorch
+  
 ![ml](https://github.com/rushikeshwalode06-cod/VisionCaption-AI-BLIP-Based-Image-Captioning/blob/main/caption_model_image.png?raw=true)
 
 ## 📊 Dataset
@@ -97,5 +98,4 @@ The dataset contains images and associated text captions. These image-caption pa
 VisionCaption AI demonstrates how computer vision and natural-language generation can work together to convert visual information into meaningful text. By combining a BLIP-based image captioning model with a modern Streamlit interface, the project provides an interactive solution for exploring AI-powered image understanding.
 
 ---
-
-⭐ If you find this project interesting, consider giving the repository a star!
+![ml](https://github.com/rushikeshwalode06-cod/VisionCaption-AI-BLIP-Based-Image-Captioning/blob/main/VisionCaption_image.png?raw=true)
